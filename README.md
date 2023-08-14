@@ -24,7 +24,7 @@ The doujinshis will be downloaded to a folder with it's title. This folder will 
 
 ## Installation
 
-`$ npm i -g https://github.com/jgobi/myreadingmanga-downloader.git`
+`$ npm i -g https://github.com/Transwarpcom/myreadingmanga-downloader.git`
 
 ## Usage
 
